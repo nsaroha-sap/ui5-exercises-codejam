@@ -2,11 +2,5 @@
 dist/
 node_modules/
 
-bookshop/manifest.yaml
-bookshop/package-lock.json
-bookshop/package.json
-bookshop/ui5.yaml
-bookshop/xs-app.json
-
 .DS_Store
 .vscode/

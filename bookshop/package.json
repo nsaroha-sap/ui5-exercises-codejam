@@ -1,0 +1,16 @@
+{
+  "name": "bookshop",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "ui5 serve --open \"index.html\""
+  },
+  "devDependencies": {
+    "@sap/ux-ui5-tooling": "^1.10.6",
+    "@ui5/cli": "^3"
+  },
+  "ui5": {
+    "dependencies": [
+      "@sap/ux-ui5-tooling"
+    ]
+  }
+}
